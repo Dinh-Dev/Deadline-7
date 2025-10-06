@@ -12,6 +12,8 @@
     width: 1282px;
     height: 72px;
     background-color: pink;
+    display: flex;
+    
 }
 .hi_day{
     width: 233px;
