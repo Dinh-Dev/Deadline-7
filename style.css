@@ -26,3 +26,32 @@
     width: 1282px;
     height: 100px;
 }
+.location{
+    width: 1218px;
+    height: 100px;
+}
+.a_em_na{
+    width: 322px;
+    height: 100px;
+}
+.avarta{
+    width: 100px;
+    height: 100px;
+}
+.em_na{
+    width: 198px;
+    height: 60px;
+}
+.name{
+    width: 132px;
+    height: 30px;
+}
+.email{
+    width: 198px;
+    height: 24px;
+}
+.edit{
+    width: 93px;
+    height: 44px;
+    background-color: blue;
+}
