@@ -70,3 +70,14 @@
     width: 593px;
     height: 88px;
 }
+.full_name{
+    width: 593px;
+    height: 24px;
+}
+.input_1_baby{
+    width: 593px;
+    height: 52px;
+}
+.arrow-down{
+    display: flex;
+}
