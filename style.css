@@ -29,10 +29,13 @@
 .location{
     width: 1218px;
     height: 100px;
+    display:flex;
+    margin-top: 32px;
 }
 .a_em_na{
     width: 322px;
     height: 100px;
+    display: flex;
 }
 .avarta{
     width: 100px;
@@ -54,4 +57,16 @@
     width: 93px;
     height: 44px;
     background-color: blue;
+}
+.text{
+    width: 1218px;
+    height: 523px;
+}
+.text_baby{
+    width: 1218px;
+    height: 314px;
+}
+.input_1{
+    width: 593px;
+    height: 88px;
 }
