@@ -8,11 +8,21 @@
     height: 1024px;
     background-color: #F1F1F1;
     display: flex;
+    gap: 30px;
+}
+.left{
+    background-color: pink;
+    display: flex;
+}
+.right{
+    background-color: red;
 }
 .Navigation_Bar{
     width: 78px;
     height: 1024px;
     align-items: center;
+    display: flex;
+    justify-content: center;
 }
 .menu{
     width: 121px;
@@ -50,7 +60,8 @@
     width: 1218px;
     height: 100px;
     display:flex;
-    margin-top: 32px;
+    margin-top: 30px;
+    margin-bottom: 30px;;
     justify-content: space-between;
 }
 .a_em_na{
