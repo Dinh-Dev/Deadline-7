@@ -7,6 +7,25 @@
     width: 1440px;
     height: 1024px;
     background-color: #F1F1F1;
+    display: flex;
+}
+.Navigation_Bar{
+    width: 78px;
+    height: 1024px;
+    align-items: center;
+}
+.menu{
+    width: 121px;
+    height: 325px;
+    align-items: center;
+}
+.icon_big{
+    width: 24px;
+    height: 308px;
+}
+.icon{
+    width: 24px;
+    height: 24px;
 }
 .header{
     width: 1282px;
