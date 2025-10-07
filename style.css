@@ -6,12 +6,12 @@
 .container{
     width: 1440px;
     height: 1024px;
-    background-color: white;
+    background-color: #F1F1F1;
 }
 .header{
     width: 1282px;
     height: 72px;
-    background-color: white;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
 
