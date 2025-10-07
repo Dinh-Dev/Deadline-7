@@ -66,18 +66,16 @@
     width: 1218px;
     height: 314px;
 }
-.input_1{
+.input{
     width: 593px;
     height: 88px;
 }
-.full_name{
+.title{
     width: 593px;
     height: 24px;
 }
-.input_1_baby{
+.input_baby{
     width: 593px;
     height: 52px;
 }
-.arrow-down{
-    display: flex;
-}
+
